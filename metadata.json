@@ -1,0 +1,6 @@
+{
+  "name": "Saviko - AI Personal Finance",
+  "description": "Apple-inspired AI-powered personal finance management platform for tracking expenses, income, budgets, savings goals, bills, and AI financial analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
